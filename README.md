@@ -13,7 +13,7 @@ Follow the steps below to set up this project on your local machine:
 3. **Clone the Repository**  
    Run the following command to clone the repository:
    ```bash
-   git clone "URL-of-this-repo"
+   git clone "https://github.com/MuskanShrestha58/BatteryOptimization.git"
 
 4. **Open the Project in VS Code**
 After cloning, navigate into the project folder and open it in Visual Studio Code using:
