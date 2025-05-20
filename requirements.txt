@@ -1,0 +1,18 @@
+pandas
+numpy
+scipy
+pulp             # For Linear/Mixed Integer Linear Programming
+pyomo  #can be alternative for pulp
+matplotlib 
+seaborn      
+openpyxl        
+python-dateutil  
+Flask            
+requests         
+streamlit     
+pytz 
+python-dotenv 
+# sklearn
+gunicorn  # Production WSGI server for Flask/FastAPI
+pyomo[extras]   
+gurobipy
