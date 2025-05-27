@@ -16,3 +16,7 @@ python-dotenv
 gunicorn  # Production WSGI server for Flask/FastAPI
 pyomo[extras]   
 gurobipy
+datetime
+os
+timeit
+ortools
